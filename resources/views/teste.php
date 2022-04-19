@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Larave</title>
+        <title>Simião Express</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -21,7 +21,27 @@
         </style>
     </head>
     <body>
-        <div>
-            ola Teste ação
+        <div class="container">
+            <head>
+                <div class="logo">
+                    <a href="Logo">Simiao Express</a>
+                </div>
+                <nav>
+                    <a href="contatos">Contatos</a>
+                </nav>
+            </head>
+            <main>
+                <section class="vindo">
+                    <h1>Bem-Vindo a Pagina Simião Express</h1>
+                    <img src="fundo" alt="fundo">
+                </section>
+                <section class="servicos">
+                    <h2>Nossos Serviços</h2>
+                </section>
+            </main>
+            <footer>
+                <p>Feito por Simião Express</p>
+                <p>whatsApp (11)98285-6423</p>
+            </footer>
         </div>
     </body>
